@@ -80,9 +80,9 @@
 
 `position` = Regra de posicionamento (pouco usado)
 
-#### Principal estrategia de posicionamento
+### Principal estratégia de posicionamento
 
 O mais usado para boa parte dos sites é o display: flex
 
-(Entendendo mais sobre display flex)[https://origamid.com/projetos/flexbox-guia-completo/]
+[Entendendo mais sobre display flex](https://origamid.com/projetos/flexbox-guia-completo/)
 
