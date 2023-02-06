@@ -78,11 +78,8 @@
 
 `display` = Regra de ocupação de tela
 
-`position` = Regra de posicionamento (pouco usado)
-
-### Principal estratégia de posicionamento
-
-O mais usado para boa parte dos sites é o display: flex
+O mais usado para boa parte dos sites é o `display: flex`
 
 [Entendendo mais sobre display flex](https://origamid.com/projetos/flexbox-guia-completo/)
 
+`position` = Regra de posicionamento (pouco usado)
