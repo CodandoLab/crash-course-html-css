@@ -34,6 +34,8 @@
 
 `<textarea>` = Caixa de entrada de texto de várias linhas
 
+`<label>` = Titulo de campos de entrada de texto
+
 ### Containers
 
 `<section>` = Seções, separa grandes grupos de informação
