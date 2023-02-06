@@ -30,6 +30,14 @@
 
 `<button>` = Botão, usado para outras interações
 
+### Listas
+
+`<ul>` = Lista não ordenada (mais usado)
+
+`<ol>` = Lista ordenada
+
+`<li>` = Um item da lista
+
 ### Caixa de texto
 
 `<input>` = Caixa de entrada de texto
