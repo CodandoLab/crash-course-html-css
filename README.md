@@ -22,6 +22,8 @@
 
 `<span>` = Textos pequenos que não são parágrafos ou títulos
 
+`<br>` = Quebra de linha no texto
+
 ### Botões
 
 `<a>` = Link, interação mais comum é abrir outra página de site
