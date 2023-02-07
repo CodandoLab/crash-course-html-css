@@ -24,12 +24,6 @@
 
 `<br>` = Quebra de linha no texto
 
-### Botões
-
-`<a>` = Link, interação mais comum é abrir outra página de site
-
-`<button>` = Botão, usado para outras interações
-
 ### Listas
 
 `<ul>` = Lista não ordenada (mais usado)
@@ -38,13 +32,25 @@
 
 `<li>` = Um item da lista
 
-### Caixa de texto
+### Imagens
+
+`<img>` = Adiciona uma imagem, importante usar o atributo `src` para colocar o caminho de carregamento da imagem
+
+### Botões
+
+`<a>` = Link, interação mais comum é abrir outra página de site
+
+`<button>` = Botão, usado para outras interações
+
+### Entrada de informações
 
 `<input>` = Caixa de entrada de texto
 
 `<textarea>` = Caixa de entrada de texto de várias linhas
 
 `<label>` = Titulo de campos de entrada de texto
+
+`<select>` = Caixa de seleção para opções, importante o uso da tag `option` para cada opção  
 
 ### Containers
 
