@@ -1,8 +1,8 @@
 # Crash Course HTML/CSS
 
-## TAGs HTML - Conteúdo
-
 [Entendendo mais sobre HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+
+## Títulos
 
 `<h1>` = Titulo principal, ideal ter apenas um na página
 
