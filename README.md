@@ -80,6 +80,7 @@
 
 ### Cores (Usado padrão RGB Hexadecimal = #000000)
 [Como funciona a tela do celular ou computador](https://youtube.com/clip/UgkxQ59LZNkY_TnT281OgZFg2TKbXWpnGyCE)
+[Ferramenta da Adobe para cores](https://color.adobe.com/pt/create/color-wheel)
 
 `color` = Adiciona cor nos textos
 
