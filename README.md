@@ -86,9 +86,7 @@
 
 `color` = Adiciona cor nos textos
 
-`background-color` = Adiciona cor no fundo
-
-`background` = Adiciona imagens ou outros tipos de fundo
+`background` = Adiciona cor, imagens no fundo
 
 ### Tamanho (usar em pixels = px)
 
