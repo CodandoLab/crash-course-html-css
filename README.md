@@ -1,5 +1,7 @@
 # Crash Course HTML/CSS
 
+[Todos os comandos HTML](https://www.w3schools.com/html/default.asp)
+
 [Entendendo mais sobre HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 
 ## Títulos
@@ -60,7 +62,19 @@
 
 ## CSS - Estilização
 
+[Todos os comandos CSS](https://www.w3schools.com/css/default.asp)
+
 [Entenda mais sobre CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+
+### Cores (Usado padrão RGB Hexadecimal = #000000)
+
+[Como funciona a tela do celular ou computador](https://youtube.com/clip/UgkxQ59LZNkY_TnT281OgZFg2TKbXWpnGyCE)
+
+[Ferramenta da Adobe para cores](https://color.adobe.com/pt/create/color-wheel)
+
+`color` = Adiciona cor nos textos
+
+`background` = Adiciona cor, imagens no fundo
 
 ### Textos
 
@@ -78,21 +92,17 @@
 
 `padding` = Adiciona margem interna
 
-### Cores (Usado padrão RGB Hexadecimal = #000000)
-
-[Como funciona a tela do celular ou computador](https://youtube.com/clip/UgkxQ59LZNkY_TnT281OgZFg2TKbXWpnGyCE)
-
-[Ferramenta da Adobe para cores](https://color.adobe.com/pt/create/color-wheel)
-
-`color` = Adiciona cor nos textos
-
-`background` = Adiciona cor, imagens no fundo
-
 ### Tamanho (usar em pixels = px)
 
 `height` = Tamanho da altura
 
 `width` = Tamanho da largura
+
+## Bordas
+
+`border` = Adiciona uma borda no elemento
+
+`border-radius` = Tamanho de arredondamento da borda (em pixels)
 
 ### Posicionamento
 
